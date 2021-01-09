@@ -1,1 +1,2 @@
 # MavenBlogSite
+integration with jenkins
